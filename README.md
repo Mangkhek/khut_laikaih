@@ -1,1 +1,2 @@
-"# khut_laikaih"
+# khut_laikaih
+# Copy right Zawikawm
